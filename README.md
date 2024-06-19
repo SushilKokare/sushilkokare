@@ -10,12 +10,13 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 - Data mastery: Hone your skills in data wrangling (cleaning and preparing data), feature engineering (creating informative features), and visualization (unveiling patterns).
 - Data science problem-solving: Apply your data science knowledge to tackle real-world challenges across diverse domains..
 
-** Skills:**
+## Skills:
 
-Programming Languages: Python (primary), [List other languages you're proficient in]
-Libraries & Frameworks: pandas, NumPy, scikit-learn, TensorFlow, PyTorch, etc. (List relevant tools)
-Data Analysis & Visualization: [Mention specific techniques you use]
-Machine Learning Algorithms: [List common algorithms you're familiar with]
+Languages: Python, C++, SQL
+Technologies: Pandas, Numpy, Matplotlib, Seaborn, Git, Scikit-learn
+Concepts: Machine Learning, Deep Learning, Data Visualization, Data Manipulation, Version Control, Data Cleaning,
+Exploratory Data Analysis (EDA)
+
 ** Projects:**
 
 [Project 1 Name]: [Short description with a link to the repository if public]
