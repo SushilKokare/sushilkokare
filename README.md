@@ -34,11 +34,8 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 
 I'm always open to collaborating on interesting projects! Feel free to reach out if you have any ideas or opportunities.
 
-** Connect with Me:**
+## Connect with Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/nikhat nadaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhat nadaf" height="30" width="40" /></a>
-<a href="https://instagram.com/100010_nikhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="100010_nikhat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhatnadaf1128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhatnadaf1128" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikhatnadaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhatnadaf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sushil-kokare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhat nadaf" height="30" width="40" /></a>
 </p>
