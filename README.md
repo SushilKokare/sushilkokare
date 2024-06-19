@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 
 - **Authored a review paper:** "A Survey on Deep Learning for Neuroimaging-based Brain Disorder Analysis,"
 - published by CRC Press, Taylor & Francis Group.
-- DOI: 10.1201/9781003264767-4.
+- DOI: 10.1201/9781003264767-4. <a href='https://www.taylorfrancis.com/chapters/edit/10.1201/9781003264767-4/survey-deep-learning-neuroimaging-based-brain-disorder-analysis-sushil-kokare-revathy' > Access Paper </a>
 
 
 
