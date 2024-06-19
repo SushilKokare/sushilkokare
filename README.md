@@ -4,7 +4,7 @@ Data Scientist • Machine Learning Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about exploring the intersection of data and intelligence, and I'm constantly learning and experimenting with new techniques in data science, machine learning, artificial intelligence, and deep learning.
 
-** Current Focus:**
+#### Current Focus:
 
 - Building powerful ML/DL models: Focus on crafting effective machine learning and deep learning models for various applications.
 - Data mastery: Hone your skills in data wrangling (cleaning and preparing data), feature engineering (creating informative features), and visualization (unveiling patterns).
