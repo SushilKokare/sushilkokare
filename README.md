@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 
 ** Current Focus:**
 
-Building powerful ML/DL models: Focus on crafting effective machine learning and deep learning models for various applications.
-Data mastery: Hone your skills in data wrangling (cleaning and preparing data), feature engineering (creating informative features), and visualization (unveiling patterns).
-Data science problem-solving: Apply your data science knowledge to tackle real-world challenges across diverse domains..
+- Building powerful ML/DL models: Focus on crafting effective machine learning and deep learning models for various applications.
+- Data mastery: Hone your skills in data wrangling (cleaning and preparing data), feature engineering (creating informative features), and visualization (unveiling patterns).
+- Data science problem-solving: Apply your data science knowledge to tackle real-world challenges across diverse domains..
 
 ** Skills:**
 
